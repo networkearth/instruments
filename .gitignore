@@ -1,3 +1,4 @@
 *.zip
 fp-info-cache
 .DS_Store
+*.pdf
